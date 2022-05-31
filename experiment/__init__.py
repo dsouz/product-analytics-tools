@@ -1,2 +1,2 @@
-from ab_analyze.ttest import *
-from ab_analyze.bayesian_test import *
+from experiment.ttest import *
+from experiment.bayesian_test import *
